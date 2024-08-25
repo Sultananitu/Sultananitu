@@ -7,7 +7,7 @@
 I am a web developer and software quality assurance engineer with a passion for creating seamless and user-friendly digital experiences. With a strong background in front-end and back-end development, I have excels in designing and implementing innovative solutions that meet the highest standards of quality and performance. Their expertise in software testing and quality assurance ensures that all projects are thoroughly evaluated and optimized for optimal functionality. I am dedicated to staying current with the latest technologies and best practices in the industry to deliver cutting-edge solutions that exceed client expectations.
 
 
-Skills: REACT / JS / HTML / CSS /Manual Testing/Automation Testing
+Skills: REACT / JS / HTML / CSS / Manual Testing / Automation Testing/ API Testing
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javascript 
